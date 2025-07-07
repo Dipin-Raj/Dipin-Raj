@@ -45,8 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Dipin-Raj&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://streak-stats.demolab.com/?user=Dipin-Raj&theme=tokyonight&hide_border=true" width="48%"/>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dipin-Raj&bg_color=0d1117&color=00ffe4&line=00ffc3&point=ffffff&area=true&hide_border=true" width="98%"/>
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dipin-Raj&theme=tokyo-night&hide_border=true" width="98%"/></div>
 
 ---
 
