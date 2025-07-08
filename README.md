@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+DIPIN+RAJ+%F0%9F%91%8B;AI+%7C+ML+Enthusiast+%7C+Product+Thinker;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F9FF&center=true&vCenter=true&width=800&lines=Hola%2C+I'm+DIPIN+RAJ+%F0%9F%91%8B;AI+%7C+ML+Enthusiast+%7C+Product+Thinker;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 <p align="center">
