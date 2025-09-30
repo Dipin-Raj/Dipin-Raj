@@ -17,7 +17,7 @@
 - 📍 Based in Wayanad, India  
 - 📬 Reach me at: **dipinr505@gmail.com**  
 - 📱 +91-6235876977  
-- 🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/dipin-raj-539788231/)) | [GitHub]([https://github.com/](https://github.com/Dipin-Raj))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dipin-raj-539788231/) | [GitHub](https://github.com/Dipin-Raj)
 
 ---
 
