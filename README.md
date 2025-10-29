@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final Year CSE (AI & ML) @ Chandigarh University  
+- 🎓 B.E. CSE (AI & ML) Graduate | AI/ML Intern @ OMNIe Solutions
 - 🚀 Passionate about AI/ML | Healthcare Innovation | Product Strategy  
 - 🛠️ Building intelligent systems to solve real-world problems  
 - 📍 Based in Wayanad, India  
