@@ -34,6 +34,17 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?&logo=scikit-learn)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
 ![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?&logo=googlecolab)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CC2B2B?style=for-the-badge&logo=sqlalchemy)
+![Alembic](https://img.shields.io/badge/Alembic-4E85A6?style=for-the-badge&logo=alembic)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-2F8D8D?style=for-the-badge&logo=uvicorn)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcn-ui&logoColor=white)
 
 </div>
 
