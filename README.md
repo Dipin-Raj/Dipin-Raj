@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.E. CSE (AI & ML) Graduate | AI/ML Intern @ OMNIe Solutions
+- 🎓 B.E. CSE (AI & ML) Graduate | AI/ML Developer @ OMNIe Solutions
 - 🚀 Passionate about AI/ML | Healthcare Innovation | Product Strategy  
 - 🛠️ Building intelligent systems to solve real-world problems  
 - 📍 Based in Wayanad, India  
